@@ -9,5 +9,3 @@ echo $dato
 final_file_name="${dato}_${filename}"
 echo $final_file_name
 cp $filename $final_file_name
-
-
